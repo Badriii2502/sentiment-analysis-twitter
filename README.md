@@ -27,11 +27,10 @@ A beginner-friendly machine learning project that performs **sentiment analysis*
 
 
 
+
 2. Install dependencies:
    pip install -r requirements.txt
-
    jupyter notebook sentiment_twitter_basics.ipynb
-
 
 ## 📊 Results
 
