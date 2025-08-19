@@ -30,10 +30,24 @@ A beginner-friendly machine learning project that performs **sentiment analysis*
    pip install -r requirements.txt
 
 ## 📊 Results
-- Accuracy: 87% on test set  
-- Model: Logistic Regression with TF-IDF features
+
+The sentiment analysis model was evaluated on 2000 tweets (1000 positive, 1000 negative).
+
+- **Accuracy:** 75.25%  
+- **Precision (Negative):** 0.74  
+- **Recall (Negative):** 0.79  
+- **F1-score (Negative):** 0.76  
+- **Precision (Positive):** 0.77  
+- **Recall (Positive):** 0.72  
+- **F1-score (Positive):** 0.74  
+
+### Classification Report
+![Model Output](output.png)
+
 
 - ## 🙋 About Me
 I’m Badrinarayan B, a 3rd year B.Tech student (CSBS) at SRMIST Ramapuram.  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/badrinarayan-b-4a87a6293/)
+
+
 
