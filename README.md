@@ -23,11 +23,11 @@ A beginner-friendly machine learning project that performs **sentiment analysis*
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-  git clone https://github.com/Badriii2502/sentiment-analysis-twitter.git
+   git clone https://github.com/Badriii2502/sentiment-analysis-twitter.git
+
 
 
 2. Install dependencies:
-   ```bash
    pip install -r requirements.txt
 
    jupyter notebook sentiment_twitter_basics.ipynb
