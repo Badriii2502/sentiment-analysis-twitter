@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Model artifacts
+*.joblib
+
+# Data (optional)
+data/
