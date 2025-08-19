@@ -21,26 +21,24 @@ A beginner-friendly machine learning project that performs **sentiment analysis*
 ---
 
 ## 🚀 How to Run
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/Badriii2502/sentiment-analysis-twitter.git
-
-2. Install dependencies:
    pip install -r requirements.txt
-
    jupyter notebook sentiment_twitter_basics.ipynb
 
 ## 📊 Results
 
 The sentiment analysis model was evaluated on 2000 tweets (1000 positive, 1000 negative).
 
-- **Accuracy:** 75.25%  
-- **Precision (Negative):** 0.74  
-- **Recall (Negative):** 0.79  
-- **F1-score (Negative):** 0.76  
-- **Precision (Positive):** 0.77  
-- **Recall (Positive):** 0.72  
-- **F1-score (Positive):** 0.74  
+| Metric     | Negative | Positive | Overall  |
+|------------|----------|----------|----------|
+| Precision  | 0.74     | 0.77     | -        |
+| Recall     | 0.79     | 0.72     | -        |
+| F1-score   | 0.76     | 0.74     | -        |
+| Accuracy   | -        | -        | **75.25%** |
+
 
 ### Classification Report
 ![Model Output](output.png)
@@ -76,8 +74,8 @@ Although the model achieves **~75% accuracy**, there is room for improvement. So
 
 
 
-## 🙋 About Me
-I’m Badrinarayan B, a 3rd year B.Tech student (CSBS) at SRMIST Ramapuram.  
+## 👤 About Me
+I’m **Badrinarayan B**, a 3rd-year B.Tech (CSBS) student at SRMIST Ramapuram.  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/badrinarayan-b-4a87a6293/)
 
 
