@@ -25,9 +25,13 @@ A beginner-friendly machine learning project that performs **sentiment analysis*
    ```bash
   git clone https://github.com/Badriii2502/sentiment-analysis-twitter.git
 
+
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+   jupyter notebook sentiment_twitter_basics.ipynb
+
 
 ## 📊 Results
 
@@ -75,7 +79,7 @@ Although the model achieves **~75% accuracy**, there is room for improvement. So
 
 
 
-- ## 🙋 About Me
+## 🙋 About Me
 I’m Badrinarayan B, a 3rd year B.Tech student (CSBS) at SRMIST Ramapuram.  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/badrinarayan-b-4a87a6293/)
 
