@@ -45,6 +45,36 @@ The sentiment analysis model was evaluated on 2000 tweets (1000 positive, 1000 n
 ![Model Output](output.png)
 
 
+## ⚙️ Model Output Explanation
+
+The model achieved an **accuracy of ~75.25%**.  
+Here’s what the output means:
+
+- **Accuracy (75%)** → Out of all tweets, 75% are correctly classified.  
+- **Precision** → When the model predicts *positive/negative*, how often is it correct?  
+- **Recall** → Of all *actual* positive/negative tweets, how many did the model catch?  
+- **F1-score** → Balance between precision & recall.  
+- **Support** → Number of test samples (1000 positive + 1000 negative).  
+
+The model also gives a **confidence score** for each new input (e.g., *positive confidence 0.58*).
+
+---
+
+## 🔮 Next Steps / Improvements
+
+Although the model achieves **~75% accuracy**, there is room for improvement. Some possible enhancements include:  
+
+1. **Larger Dataset** – Train on a bigger and more diverse dataset beyond the NLTK Twitter samples.  
+2. **Hyperparameter Tuning** – Experiment with vectorizer options and classifier parameters.  
+3. **Deep Learning Models** – Try LSTM, GRU, or BERT for better performance.  
+4. **Neutral Sentiment** – Extend the model to classify *neutral* tweets.  
+5. **Deployment** – Build a Flask/Streamlit app for live predictions.  
+6. **Visualization** – Add graphs (class distribution, confusion matrix, etc.).  
+
+---
+
+
+
 - ## 🙋 About Me
 I’m Badrinarayan B, a 3rd year B.Tech student (CSBS) at SRMIST Ramapuram.  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/badrinarayan-b-4a87a6293/)
