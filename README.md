@@ -23,5 +23,5 @@ A beginner-friendly machine learning project that performs **sentiment analysis*
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/sentiment-analysis-twitter.git
-   cd sentiment-analysis-twitter
+  git clone https://github.com/Badriii2502/sentiment-analysis-twitter.git
+
