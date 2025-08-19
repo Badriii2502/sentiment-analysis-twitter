@@ -29,4 +29,11 @@ A beginner-friendly machine learning project that performs **sentiment analysis*
    ```bash
    pip install -r requirements.txt
 
+## 📊 Results
+- Accuracy: 87% on test set  
+- Model: Logistic Regression with TF-IDF features
+
+- ## 🙋 About Me
+I’m Badrinarayan B, a 3rd year B.Tech student (CSBS) at SRMIST Ramapuram.  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/badrinarayan-b-4a87a6293/)
 
